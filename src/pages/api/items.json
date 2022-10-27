@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Shampoo Antiqueda Vichy Dercos Energizante",
+    "resume": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia conequat duis enim velit mollit.",
+    "amount": 1,
+    "price": 79.99
+  },
+  {
+    "id": 2,
+    "name": "Paracetamol 750 Mg Uso Adulto Generico Prati Donaduzzi C/ 12 Comprimidos",
+    "resume": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia conequat duis enim velit mollit.",
+    "amount": 1,
+    "price": 3.99
+  },
+  {
+    "id": 3,
+    "name": "Dorflex Com 50 Comprimidos",
+    "resume": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia conequat duis enim velit mollit.",
+    "amount": 1,
+    "price": 2.5
+  },
+  {
+    "id": 4,
+    "name": "Fraldas Geriátrica Dermacare Slip Tamanho M com 16 Unidades Tena",
+    "resume": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia conequat duis enim velit mollit.",
+    "amount": 1,
+    "price": 29.99
+  }
+]
